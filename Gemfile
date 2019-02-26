@@ -30,7 +30,8 @@ gem 'jquery-rails'
 # User Devise for authentication
 gem 'devise'
 gem 'twitter-bootstrap-rails'
-gem 'devise-bootstrap-views', '~> 1.0'
+gem 'devise-bootstrap-views'
+gem 'stock_quote'
 
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'

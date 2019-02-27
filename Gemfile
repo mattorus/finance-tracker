@@ -33,6 +33,8 @@ gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'stock_quote'
 
+gem 'hirb'
+
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
